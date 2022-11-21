@@ -1,0 +1,15 @@
+D:\Project\CS494-Lab1\obj\Debug\net7.0\app.csproj.AssemblyReference.cache
+D:\Project\CS494-Lab1\obj\Debug\net7.0\app.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CS494-Lab1\obj\Debug\net7.0\app.AssemblyInfoInputs.cache
+D:\Project\CS494-Lab1\obj\Debug\net7.0\app.AssemblyInfo.cs
+D:\Project\CS494-Lab1\obj\Debug\net7.0\app.csproj.CoreCompileInputs.cache
+D:\Project\CS494-Lab1\bin\Debug\net7.0\app.exe
+D:\Project\CS494-Lab1\bin\Debug\net7.0\app.deps.json
+D:\Project\CS494-Lab1\bin\Debug\net7.0\app.runtimeconfig.json
+D:\Project\CS494-Lab1\bin\Debug\net7.0\app.dll
+D:\Project\CS494-Lab1\bin\Debug\net7.0\app.pdb
+D:\Project\CS494-Lab1\obj\Debug\net7.0\app.dll
+D:\Project\CS494-Lab1\obj\Debug\net7.0\refint\app.dll
+D:\Project\CS494-Lab1\obj\Debug\net7.0\app.pdb
+D:\Project\CS494-Lab1\obj\Debug\net7.0\app.genruntimeconfig.cache
+D:\Project\CS494-Lab1\obj\Debug\net7.0\ref\app.dll
